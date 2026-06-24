@@ -1,4 +1,4 @@
-# roza-scavenger
+# fsk-walkie-talkie
 
 voice-over-FSK walkie talkie on ESP32-S3 + SX1262 (LoRa modem) + MSM261 mic + MAX98357A amp. FSK @ 19.2 kbps, Codec2 mode 3200 (8 bytes per 20ms frame), 5-frame packets (100ms = ~22ms air time at 19.2k).
 
